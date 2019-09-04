@@ -1,0 +1,73 @@
+{    "CodRetorno": 0,
+     "Mensagem": "Sucesso",
+     "payload": [
+            {
+                "sigla": "FT",
+                "codProd": "123456",
+                "competencia": "2019-09",
+                "criticas": true,
+                "status": 1, 
+                "listaeventos":[
+                    {
+                        "fatoGer": "01-09-2019",
+                        "qtdAceito": 12345678,
+                        "valorBase": 235.00,
+                        "tributo": 50000.00,
+                        "qtdCriticado": 12345678,
+                        "valorBaseCrit": 1000.00,
+                        "tributoCriticado": 100.00
+
+                    },
+                    {
+                        "fatoGer": "01-09-2019",
+                        "qtdAceito": 12345678,
+                        "valorBase": 235.00,
+                        "tributo": 50000.00,
+                        "qtdCriticado": 12345678,
+                        "valorBaseCrit": 1000.00,
+                        "tributoCriticado": 100.00
+
+                    },{
+                        "fatoGer": "01-09-2019",
+                        "qtdAceito": 12345678,
+                        "valorBase": 235.00,
+                        "tributo": 50000.00,
+                        "qtdCriticado": 12345678,
+                        "valorBaseCrit": 1000.00,
+                        "tributoCriticado": 100.00
+
+                    },{
+                        "fatoGer": "01-09-2019",
+                        "qtdAceito": 12345678,
+                        "valorBase": 235.00,
+                        "tributo": 50000.00,
+                        "qtdCriticado": 12345678,
+                        "valorBaseCrit": 1000.00,
+                        "tributoCriticado": 100.00
+
+                    },{
+                        "fatoGer": "01-09-2019",
+                        "qtdAceito": 12345678,
+                        "valorBase": 235.00,
+                        "tributo": 50000.00,
+                        "qtdCriticado": 12345678,
+                        "valorBaseCrit": 1000.00,
+                        "tributoCriticado": 100.00
+
+                    },{
+                        "fatoGer": "01-09-2019",
+                        "qtdAceito": 12345678,
+                        "valorBase": 235.00,
+                        "tributo": 50000.00,
+                        "qtdCriticado": 12345678,
+                        "valorBaseCrit": 1000.00,
+                        "tributoCriticado": 100.00
+
+                    }
+                
+                ]
+            }
+
+    ]
+
+}
